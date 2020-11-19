@@ -1,4 +1,4 @@
-require "./user.rb"
+
 
 class User
 
