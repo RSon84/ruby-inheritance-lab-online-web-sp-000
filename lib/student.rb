@@ -11,4 +11,7 @@ def initialize
 
 end
 
+def learn(string)
+  knowledge << string
+
 end
