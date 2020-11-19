@@ -4,9 +4,11 @@ class Student < User
 
 attr_accessor :knowledge
 
-def initialize
+@knowledge = []
 
-  knowledge = []
+def initializeL(knowledge)
+
+  @knowledge<< []
 
 end
 
